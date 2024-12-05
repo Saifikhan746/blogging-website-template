@@ -1,18 +1,18 @@
 const siteMetadata = {
-  title: 'Techipedia',
+  title: 'Pwning',
   author: 'Saif Khan',
   headerTitle: 'pwning',
   description: 'Nothing just a blog about different stuffs',
   language: 'en-us',
   theme: 'system', // system, dark or light
   siteUrl: 'https://yasukeblog.vercel.app',
-  siteRepo: 'https://github.com/thekamalkashyap/blogging-website-template',
+  siteRepo: 'https://github.com/Saifikhan746/blogging-website-template',
   siteLogo: '/icons/maskable.png',
-  image: '/static/images/me.jpg',
-  email: 'iamkamalkumar@proton.me',
-  github: 'https://github.com/thekamalkashyap',
+  image: '',
+  email: 'isaifullahanwar@gmail.com',
+  github: 'https://github.com/Saifikhan746',
   twitter: 'https://twitter.com/thekamalkashyap',
-  instagram: 'https://instagram.com/kashyap._.kamal',
+  instagram: 'isaifkun',
   locale: 'en-US',
   analytics: {
     // supports plausible, simpleAnalytics or googleAnalytics
