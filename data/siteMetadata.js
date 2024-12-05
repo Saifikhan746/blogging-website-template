@@ -1,11 +1,11 @@
 const siteMetadata = {
   title: 'Techipedia',
-  author: 'Kamal Kashyap',
-  headerTitle: 'techipedia',
-  description: 'best place to learn trendy tech and understanding concepts',
+  author: 'Saif Khan',
+  headerTitle: 'pwning',
+  description: 'Nothing just a blog about different stuffs',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://techipedia.vercel.app,',
+  siteUrl: 'https://yasukeblog.vercel.app',
   siteRepo: 'https://github.com/thekamalkashyap/blogging-website-template',
   siteLogo: '/icons/maskable.png',
   image: '/static/images/me.jpg',
